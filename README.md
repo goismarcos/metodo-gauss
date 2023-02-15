@@ -1,2 +1,3 @@
-# Método Gauss em C++
-Algoritmo do método de Gauss desenvolvido em C++, o algoritmo de Gauss tem como objetivo resolver sistemas de equações lineares, consistindo em aplicar sucessivas operações elementares num sistema linear, para o transformar num sistema de mais fácil resolução.
+# Gauss method in C++
+Algorithm of the Gauss method developed in C++, the Gauss algorithm aims to solve systems of linear equations, consisting of applying successive elementary operations in a linear system, to transform it into a system of easier resolution.
+### see more: https://marcos-gois.medium.com/unraveling-the-mystery-of-the-gauss-method-1b290887be6d
